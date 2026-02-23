@@ -1,4 +1,20 @@
-# Sample Snack app
+# Digital timer - React native
+
+A modern React native application featuring a sleek digital timer with real-time countdown functionality.
+
+## Description
+
+It provides an intuitive interface for starting, pausing, and resetting a precision timer with HH:MM:SS formatting.
+
+## Features
+
+- ⏱️ **Real-time Timer** — Displays elapsed time in HH:MM:SS format
+- ▶️ **Start/Pause Controls** — Toggle timer execution with disabled state management
+- 🔄 **Reset Function** — Clear timer and return to zero
+- 🎨 **Modern UI** — Green retro-style display with dark background and glassmorphism effects
+- 📱 **Responsive Design** — Vertically centered layout using flexbox
+- ⚡ **Built with Vite** — Lightning-fast hot module replacement and optimized production builds
+
 
 Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
 
